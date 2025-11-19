@@ -150,11 +150,11 @@ npm run dev
 
 # 🖼️ Screenshots
 ### 🏠 Homepage
-
+![Homepage](src/assets/Home.png)
 ### 🎮 Game Details
-
-### 🔐 Login Page
-
+![Homepage](src/assets/gameDetails.png)
+### 🔐 Sign Up Page
+![Homepage](src/assets/signUp.png)
 ## 📧 Contact
 👤 Author: Zahidul Islam Mahim
 
